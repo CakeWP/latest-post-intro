@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "gutenberghub/latest-post-intro",
+  "version": "1.0.0",
+  "title": "Latest Post Block",
+  "category": "widgets",
+  "icon": "pos",
+  "description": "A simple dynamic block used to display introduction for the latest available post.",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "latest-post-intro",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
