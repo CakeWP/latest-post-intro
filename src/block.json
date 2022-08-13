@@ -3,9 +3,9 @@
 	"apiVersion": 2,
 	"name": "gutenberghub/latest-post-intro",
 	"version": "1.0.0",
-	"title": "Latest Post Block",
+	"title": "Latest Post",
 	"category": "widgets",
-	"icon": "pos",
+	"icon": "admin-post",
 	"description": "A simple dynamic block used to display introduction for the latest available post.",
 	"supports": {
 		"html": false
